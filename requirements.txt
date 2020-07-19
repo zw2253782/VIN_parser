@@ -2,4 +2,4 @@ pysimplegui
 openpyxl
 xlrd
 pandas
-pyvin
+#pyvin
